@@ -1,0 +1,21 @@
+/* Remove default margin from the body to prevent unwanted spacing */
+body {
+  margin: 0;
+
+  /* Use a clean, modern font stack that works across platforms */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+  /* Improve text rendering on WebKit-based browsers (like Chrome, Safari) */
+  -webkit-font-smoothing: antialiased;
+
+  /* Improve text rendering on Firefox (macOS) */
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Define monospace font style for <code> elements */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
