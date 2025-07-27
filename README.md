@@ -6,11 +6,6 @@ A real-time weather forecast web application built using **React.js**, **CSS**, 
 
 ---
 
-## 🔗 Live Demo
-
-👉 [Click Here to View Live](https://your-live-site-url.com)  
-*(Replace this link with your deployed site URL on Netlify, Vercel, etc.)*
-
 ---
 
 ## 🛠 Technologies Used
